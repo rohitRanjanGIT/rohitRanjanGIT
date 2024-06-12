@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Rohit Ranjan! 👋
 
-<!--
-**rohitRanjanGIT/rohitRanjanGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Engineering student at KL University with a passion for programming and technology. Here’s a bit about me:
 
-Here are some ideas to get you started:
+- 💻 **Languages:** C, Python, Java, JavaScript
+- 🌐 **Current Interests:** Web Development, Data Science
+- 🔍 **Problem Solver:** Regularly practice Data Structures and Algorithms (DSA)
+- 🚀 **Tech Enthusiast:** Always exploring the latest tech trends and innovations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I thrive on learning new technologies and finding creative ways to apply my knowledge. Besides coding, I have a keen interest in photo and video editing, which I occasionally and passionately work on. Hope to make the world a better place with the help of technology and our knoladge.🌍
+
+Let’s work together and share ideas! 🚀
+
+[Connect to me on LinkedIn](https://www.linkedin.com/in/rohit-ranjan2985)
+
+---
