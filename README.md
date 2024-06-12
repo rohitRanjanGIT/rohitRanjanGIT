@@ -9,8 +9,10 @@ I'm a Computer Science Engineering student at KL University with a passion for p
 
 I thrive on learning new technologies and finding creative ways to apply my knowledge. Besides coding, I have a keen interest in photo and video editing, which I occasionally and passionately work on. Hope to make the world a better place with the help of technology and our knoladge.🌍
 
+[Connect to me on LinkedIn](https://www.linkedin.com/in/rohit-ranjan2985)
+[Check my linkedin profile](https://leetcode.com/u/rrohit2005/)
+
 Let’s work together and share ideas! 🚀
 
-[Connect to me on LinkedIn](https://www.linkedin.com/in/rohit-ranjan2985)
 
 ---
