@@ -11,7 +11,7 @@ I thrive on learning new technologies and finding creative ways to apply my know
 
 [Connect to me on LinkedIn](https://www.linkedin.com/in/rohit-ranjan2985)
 
-[Check my linkedin profile](https://leetcode.com/u/rrohit2005/)
+[Check my leetcode profile](https://leetcode.com/u/rrohit2005/)
 
 Let’s work together and share ideas! 🚀
 
