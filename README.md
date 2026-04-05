@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://giffiles.alphacoders.com/222/222908.gif" width="100" height="110">
   <h1>Rohit Ranjan</h1>
-  <h3>👨‍💻 Developer | 🎨 UI/UX Enthusiast | 🚀 Tech Explorer </h3>
+  <h3>👨‍💻 AI Full Stack Developer | 🎨 UI/UX Enthusiast | 🚀 Tech Explorer </h3>
   
   <p>
     <a href="https://github.com/rohitRanjanGIT" target="_blank">
