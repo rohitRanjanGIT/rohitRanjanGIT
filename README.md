@@ -21,15 +21,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitRanjanGIT&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=rohitRanjanGIT&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitRanjanGIT&theme=tokyonight" alt="GitHub Streak" height="170">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitRanjanGIT&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitRanjanGIT&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"> -->
 </div>
 
 <div align="center">
